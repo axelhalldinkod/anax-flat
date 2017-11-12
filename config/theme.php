@@ -40,7 +40,7 @@ return [
             "template" => "default/image",
             "data" => [
                 "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
+                "src" => "../img/programming.jpg",
                 "alt" => "Logo",
             ],
             "sort" => 1
